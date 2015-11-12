@@ -3,10 +3,10 @@
 # ----------------------- #
 
 url: http://lvzhongyi.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
-simple_search: https://www.baidu.com/search
+title: 吕中宜的博客
+subtitle: 一个java程序员的个人博客
+author: lvzhongyi
+simple_search: http://www.baidu.com/search
 description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
